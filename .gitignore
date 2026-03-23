@@ -1,0 +1,11 @@
+# Archivos compilados
+*.class
+target/
+
+# Configuraciones de IDEs (Eclipse, IntelliJ, VSCode)
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
